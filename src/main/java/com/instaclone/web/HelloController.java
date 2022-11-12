@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-    @GetMapping("/test")
-    public String test() {
-        return "test";
+    @GetMapping("/check")
+    public String check() {
+        return "Check Completed";
     }
 }

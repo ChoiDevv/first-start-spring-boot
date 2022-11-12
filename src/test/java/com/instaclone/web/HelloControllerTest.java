@@ -19,10 +19,10 @@ public class HelloControllerTest {
     private MockMvc mvc;
 
     @Test
-    public void test가_리턴된다() throws Exception {
-        String test = "test";
+    public void check가_리턴된다() throws Exception {
+        String test = "Check Completed";
 
-        mvc.perform(get("/test"))
+        mvc.perform(get("/check"))
                 .andExpect(status().isOk())
                 .andExpect(content().string(test));
     }
