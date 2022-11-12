@@ -8,3 +8,6 @@ Java 11, Gradle 4.10.2 <br></br>
 
 ### 📁 패키지
 com.instaclone.web : 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 스프링 Gradle 설정 및 테스트 코드 작성 패키지 <br></br>
+
+### 관련 정리
+https://fan-yuzu-49b.notion.site/Spring-Boot-ec00f93d29e64d10a597913ce2368620
