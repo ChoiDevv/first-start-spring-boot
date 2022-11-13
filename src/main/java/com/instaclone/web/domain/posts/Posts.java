@@ -1,6 +1,5 @@
 package com.instaclone.web.domain.posts;
 
-import com.instaclone.web.dto.PostsUpdateRequestDto;
 import lombok.Builder;
 import lombok.Getter;
 
@@ -8,7 +7,7 @@ import javax.persistence.*;
 
 @Getter
 @Entity
-public class Posts {
+public class Posts extends BaseTimeEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
