@@ -36,7 +36,7 @@ public class PostsRepositoryTest {
                 .author("csd_1996@naver.com")
                 .build());
 
-        // When
+        // when
         List<Posts> postsList = postsRepository.findAll();
 
         // then
