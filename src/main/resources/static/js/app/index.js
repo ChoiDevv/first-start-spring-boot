@@ -26,5 +26,4 @@ var main = {
         });
     }
 };
-
 main.init();
