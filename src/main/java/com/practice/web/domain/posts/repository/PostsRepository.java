@@ -1,6 +1,6 @@
-package com.instaclone.web.domain.posts.repository;
+package com.practice.web.domain.posts.repository;
 
-import com.instaclone.web.domain.posts.Posts;
+import com.practice.web.domain.posts.Posts;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

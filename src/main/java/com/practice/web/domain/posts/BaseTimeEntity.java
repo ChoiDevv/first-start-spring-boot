@@ -1,4 +1,4 @@
-package com.instaclone.web.domain.posts;
+package com.practice.web.domain.posts;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;

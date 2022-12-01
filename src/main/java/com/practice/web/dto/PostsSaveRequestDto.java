@@ -1,6 +1,6 @@
-package com.instaclone.web.dto;
+package com.practice.web.dto;
 
-import com.instaclone.web.domain.posts.Posts;
+import com.practice.web.domain.posts.Posts;
 import lombok.Builder;
 import lombok.Getter;
 

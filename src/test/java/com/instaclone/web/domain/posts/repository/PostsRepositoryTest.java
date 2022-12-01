@@ -1,6 +1,7 @@
 package com.instaclone.web.domain.posts.repository;
 
-import com.instaclone.web.domain.posts.Posts;
+import com.practice.web.domain.posts.Posts;
+import com.practice.web.domain.posts.repository.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

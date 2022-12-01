@@ -1,5 +1,6 @@
 package com.instaclone.web.dto;
 
+import com.practice.web.dto.HelloResponseDto;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

@@ -1,9 +1,9 @@
-package com.instaclone.web.controller;
+package com.practice.web.controller;
 
-import com.instaclone.web.dto.PostsResponseDto;
-import com.instaclone.web.dto.PostsSaveRequestDto;
-import com.instaclone.web.dto.PostsUpdateRequestDto;
-import com.instaclone.web.service.PostsService;
+import com.practice.web.dto.PostsResponseDto;
+import com.practice.web.dto.PostsSaveRequestDto;
+import com.practice.web.dto.PostsUpdateRequestDto;
+import com.practice.web.service.PostsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

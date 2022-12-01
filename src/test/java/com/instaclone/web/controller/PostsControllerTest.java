@@ -1,9 +1,9 @@
 package com.instaclone.web.controller;
 
-import com.instaclone.web.domain.posts.Posts;
-import com.instaclone.web.domain.posts.repository.PostsRepository;
-import com.instaclone.web.dto.PostsSaveRequestDto;
-import com.instaclone.web.dto.PostsUpdateRequestDto;
+import com.practice.web.domain.posts.Posts;
+import com.practice.web.domain.posts.repository.PostsRepository;
+import com.practice.web.dto.PostsSaveRequestDto;
+import com.practice.web.dto.PostsUpdateRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

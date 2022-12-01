@@ -1,10 +1,10 @@
-package com.instaclone.web.service;
+package com.practice.web.service;
 
-import com.instaclone.web.domain.posts.Posts;
-import com.instaclone.web.domain.posts.repository.PostsRepository;
-import com.instaclone.web.dto.PostsResponseDto;
-import com.instaclone.web.dto.PostsSaveRequestDto;
-import com.instaclone.web.dto.PostsUpdateRequestDto;
+import com.practice.web.domain.posts.Posts;
+import com.practice.web.domain.posts.repository.PostsRepository;
+import com.practice.web.dto.PostsResponseDto;
+import com.practice.web.dto.PostsSaveRequestDto;
+import com.practice.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.instaclone.web.dto;
+package com.practice.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
