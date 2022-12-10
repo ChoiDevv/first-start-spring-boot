@@ -1,5 +1,6 @@
 package com.practice.web.domain.posts;
 
+import com.practice.web.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 
